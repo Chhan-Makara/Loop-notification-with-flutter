@@ -1,6 +1,8 @@
 # notification_ui_flutter
 
-A new Flutter project.
+Here's code of loop notification with flutter.
+![image](https://github.com/user-attachments/assets/031e188e-9cf2-4851-9e8c-8f711f480788)
+
 
 ## Getting Started
 
